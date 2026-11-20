@@ -44,7 +44,7 @@ Source of truth: the App Store description in `~/Code/hitchstead/docs/app-store-
 - Widgets: Home Screen and Lock Screen, for yourself or someone you follow.
 - Free tier: set up the rotation, the next 90 days, preview changes, widgets. Unlock ($9.99 once): save changes, every month, invite home, publish to Apple Calendar, export. Followers free.
 - iPhone only. App Store id 6827233338; US name "Hitchstead: Oilfield Calendar", AU name "Hitchstead: FIFO Roster".
-- Support email today: interactivemedia91@gmail.com (a hello@hitchstead.com address is planned, not set up yet).
+- Support email: hello@hitchstead.com (Cloudflare Email Routing, set up 20 Nov 2026).
 
 ## Brand Commitments
 
