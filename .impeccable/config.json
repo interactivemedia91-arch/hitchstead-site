@@ -1,0 +1,53 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "cream-palette",
+        "value": "*",
+        "files": [
+          "index.html"
+        ],
+        "createdAt": "2026-11-20T10:48:15.107Z",
+        "reason": "Sanctioned: #F7F3E8 is the Hitchstead app's Hard Hat background (owner-approved world, pinned in the brief); the site extends the app's identity"
+      },
+      {
+        "rule": "cream-palette",
+        "value": "*",
+        "files": [
+          "404.html"
+        ],
+        "createdAt": "2026-11-20T10:48:15.123Z",
+        "reason": "Sanctioned: #F7F3E8 is the Hitchstead app's Hard Hat background (owner-approved world, pinned in the brief); the site extends the app's identity"
+      },
+      {
+        "rule": "cream-palette",
+        "value": "*",
+        "files": [
+          "privacy/index.html"
+        ],
+        "createdAt": "2026-11-20T10:48:15.143Z",
+        "reason": "Sanctioned: #F7F3E8 is the Hitchstead app's Hard Hat background (owner-approved world, pinned in the brief); the site extends the app's identity"
+      },
+      {
+        "rule": "cream-palette",
+        "value": "*",
+        "files": [
+          "support/index.html"
+        ],
+        "createdAt": "2026-11-20T10:48:15.164Z",
+        "reason": "Sanctioned: #F7F3E8 is the Hitchstead app's Hard Hat background (owner-approved world, pinned in the brief); the site extends the app's identity"
+      },
+      {
+        "rule": "cramped-padding",
+        "value": "*",
+        "files": [
+          "index.html"
+        ],
+        "createdAt": "2026-11-20T10:48:15.180Z",
+        "reason": "False positive: the flagged <section> is the full-bleed hero whose band and sheet column touch the viewport edges by design; every text block inside has 32-56px padding"
+      }
+    ]
+  }
+}

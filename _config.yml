@@ -1,0 +1,7 @@
+# GitHub Pages runs Jekyll: publish the static files only, not the working notes.
+exclude:
+  - PRODUCT.md
+  - DESIGN.md
+  - README.md
+  - tools
+include: []
